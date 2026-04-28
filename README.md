@@ -331,7 +331,8 @@ Q2 profitability declined sharply despite reasonable revenue performance. May wa
 
 ## 👤 Author
 
-**Chidera Patrick Anajekwu **
+**Chidera Patrick Anajekwu**
+
 BI Analyst | Data Analyst | Statistician
 
 > *"The goal of a BI Analyst is not to produce dashboards — it is to reduce uncertainty for decision makers."*
